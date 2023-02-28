@@ -17,6 +17,8 @@ Hi, I'm Mona. You might recognize me as GitHub's mascot.
 |     7| Docker    |
 
 [![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=rockowtham)](https://github.com/rockowtham/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rockowtham)](https://github.com/rockowtham/github-readme-stats)
 <!--
 **rockowtham/rockowtham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
