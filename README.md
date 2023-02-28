@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/kumargowtham"><img src="https://api.daily.dev/devcards/7b0bbae2b3954431ab6e6ef82d881539.png?r=401" width="400" alt="Gowtham Kumar's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/kumargowtham"><img src="https://api.daily.dev/devcards/7b0bbae2b3954431ab6e6ef82d881539.png?r=401" width="400" alt="Gowtham Kumar's Dev Card"/></a> -->
 
 <!--
 **rockowtham/rockowtham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
