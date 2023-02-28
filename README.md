@@ -2,6 +2,20 @@
 
 <!-- <a href="https://app.daily.dev/kumargowtham"><img src="https://api.daily.dev/devcards/7b0bbae2b3954431ab6e6ef82d881539.png?r=401" width="400" alt="Gowtham Kumar's Dev Card"/></a> -->
 
+## About me
+
+Hi, I'm Mona. You might recognize me as GitHub's mascot.
+
+| Rank | TechSkills|
+|-----:|-----------|
+|     1| Javascript|
+|     2| Php       |
+|     3| Mysql     |
+|     4| React     |  
+|     5| Java      |
+|     6| Python    |
+|     7| Docker    |
+
 <!--
 **rockowtham/rockowtham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
